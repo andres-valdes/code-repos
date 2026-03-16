@@ -1,0 +1,114 @@
+[submodule "andres-valdes/AeroSpace"]
+	path = andres-valdes/AeroSpace
+	url = https://github.com/andres-valdes/AeroSpace.git
+[submodule "andres-valdes/claude-code-sdk-disco"]
+	path = andres-valdes/claude-code-sdk-disco
+	url = https://github.com/andres-valdes/claude-code-sdk-disco.git
+[submodule "andres-valdes/ghclone"]
+	path = andres-valdes/ghclone
+	url = https://github.com/andres-valdes/ghclone.git
+[submodule "andres-valdes/LibTorrent-swift"]
+	path = andres-valdes/LibTorrent-swift
+	url = https://github.com/andres-valdes/LibTorrent-swift.git
+[submodule "andres-valdes/one-pace-tv"]
+	path = andres-valdes/one-pace-tv
+	url = https://github.com/andres-valdes/one-pace-tv.git
+[submodule "drip-torrent/drip-swift"]
+	path = drip-torrent/drip-swift
+	url = https://github.com/drip-torrent/drip-swift.git
+[submodule "drip-torrent/drip"]
+	path = drip-torrent/drip
+	url = https://github.com/drip-torrent/drip.git
+[submodule "drip-torrent/LibTorrent-swift"]
+	path = drip-torrent/LibTorrent-swift
+	url = https://github.com/drip-torrent/LibTorrent-swift.git
+[submodule "drip-torrent/SwiftTorrent"]
+	path = drip-torrent/SwiftTorrent
+	url = https://github.com/drip-torrent/SwiftTorrent.git
+[submodule "elamaunt/GDShrapt"]
+	path = elamaunt/GDShrapt
+	url = https://github.com/elamaunt/GDShrapt
+[submodule "embassy-rs/embassy"]
+	path = embassy-rs/embassy
+	url = https://github.com/embassy-rs/embassy.git
+[submodule "embassy-rs/trouble"]
+	path = embassy-rs/trouble
+	url = https://github.com/embassy-rs/trouble.git
+[submodule "facebook/sapling"]
+	path = facebook/sapling
+	url = https://github.com/facebook/sapling.git
+[submodule "frankbria/ralph-claude-code"]
+	path = frankbria/ralph-claude-code
+	url = https://github.com/frankbria/ralph-claude-code.git
+[submodule "godotengine/godot"]
+	path = godotengine/godot
+	url = https://github.com/godotengine/godot
+[submodule "MacEnhance/noShadows"]
+	path = MacEnhance/noShadows
+	url = https://github.com/MacEnhance/noShadows
+[submodule "otto-laboratories/Arbor"]
+	path = otto-laboratories/Arbor
+	url = https://github.com/otto-laboratories/Arbor.git
+[submodule "otto-laboratories/drive"]
+	path = otto-laboratories/drive
+	url = https://github.com/otto-laboratories/drive.git
+[submodule "otto-laboratories/osource"]
+	path = otto-laboratories/osource
+	url = https://github.com/otto-laboratories/osource.git
+[submodule "otto-laboratories/otto-app"]
+	path = otto-laboratories/otto-app
+	url = https://github.com/otto-laboratories/otto-ios.git
+[submodule "otto-laboratories/otto-fw"]
+	path = otto-laboratories/otto-fw
+	url = https://github.com/otto-laboratories/otto-fw.git
+[submodule "otto-laboratories/otto-ios"]
+	path = otto-laboratories/otto-ios
+	url = https://github.com/otto-laboratories/otto-ios.git
+[submodule "otto-laboratories/otto-web"]
+	path = otto-laboratories/otto-web
+	url = https://github.com/otto-laboratories/otto-web.git
+[submodule "otto-laboratories/ottomobile"]
+	path = otto-laboratories/ottomobile
+	url = https://github.com/otto-laboratories/ottomobile.git
+[submodule "otto-laboratories/spline-gen"]
+	path = otto-laboratories/spline-gen
+	url = https://github.com/otto-laboratories/spline-gen.git
+[submodule "otto-laboratories/vscode-ios-debug"]
+	path = otto-laboratories/vscode-ios-debug
+	url = https://github.com/otto-laboratories/vscode-ios-debug.git
+[submodule "otto-laboratories/www"]
+	path = otto-laboratories/www
+	url = https://github.com/otto-laboratories/www.git
+[submodule "PrestonKnopp/tree-sitter-gdscript"]
+	path = PrestonKnopp/tree-sitter-gdscript
+	url = https://github.com/PrestonKnopp/tree-sitter-gdscript
+[submodule "swiftlang/sourcekit-lsp"]
+	path = swiftlang/sourcekit-lsp
+	url = https://github.com/swiftlang/sourcekit-lsp.git
+[submodule "toasted-iron-studios/crispy"]
+	path = toasted-iron-studios/crispy
+	url = https://github.com/toasted-iron-studios/soggy.git
+[submodule "toasted-iron-studios/gdsharp"]
+	path = toasted-iron-studios/gdsharp
+	url = https://github.com/toasted-iron-studios/GDSharp.git
+[submodule "toasted-iron-studios/gdUnit4Net"]
+	path = toasted-iron-studios/gdUnit4Net
+	url = https://github.com/toasted-iron-studios/gdUnit4Net.git
+[submodule "toasted-iron-studios/godot-agent-mcp"]
+	path = toasted-iron-studios/godot-agent-mcp
+	url = https://github.com/toasted-iron-studios/godot-agent-mcp
+[submodule "TristanLMartin/ProjectCrispy"]
+	path = TristanLMartin/ProjectCrispy
+	url = https://github.com/TristanLMartin/ProjectCrispy.git
+[submodule "zed-industries/zed"]
+	path = zed-industries/zed
+	url = https://github.com/zed-industries/zed
+[submodule "andres-valdes/sync-submodules"]
+	path = andres-valdes/sync-submodules
+	url = https://github.com/andres-valdes/sync-submodules.git
+[submodule "andres-valdes/plan-editor"]
+	path = andres-valdes/plan-editor
+	url = https://github.com/andres-valdes/plan-editor.git
+[submodule "andres-valdes/homebrew-tap"]
+	path = andres-valdes/homebrew-tap
+	url = https://github.com/andres-valdes/homebrew-tap.git
